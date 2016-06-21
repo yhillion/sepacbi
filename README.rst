@@ -1,7 +1,3 @@
-.. image:: https://landscape.io/github/yhillion/sepacbi/sdd-support/landscape.svg?style=plastic
-   :target: https://landscape.io/github/yhillion/sepacbi/sdd-support
-   :alt: Code Health
-
 SEPA Credit Transfer (CBI) request generator
 --------------------------------------------
 
